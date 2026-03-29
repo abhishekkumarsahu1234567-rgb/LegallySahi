@@ -1,0 +1,16 @@
+Q: i have been scammed for 10 lakhs digitally upi
+A: {
+  "issue": "UPI-based financial scam involving \u20b910,00,000",
+  "is_likely_valid": "Yes",
+  "explanation": "A claim of digital payment fraud like a UPI scam involves misappropriation of funds via an online platform. Such cases can fall under criminal offences (cheating, criminal breach of trust) and IT Act provisions for misuse of online systems. You should pursue criminal action (FIR) and seek bank/UPI-representative recourse. Recovery of funds is possible in some cases but not guaranteed and depends on bank investigations and actions by the recipient\u2019s bank.",
+  "next_steps": [
+    "Immediately contact your bank/UPI app fraud desk to report the fraud, block further transactions, and request investigation and possible reversal/chargeback of the funds.",
+    "Gather and preserve evidence: transaction IDs, timestamps, bank statements, screenshots, chat/email/phone transcripts, merchant/recipient details, device information. Do not share OTP or MPIN with anyone.",
+    "File an FIR at the local police station (or cybercrime cell if available) with all details: date/time, amount (\u20b910,00,000), UPI IDs involved, beneficiary details, and all evidence.",
+    "Register a complaint on the National Cyber Crime Portal (cybercrime.gov.in) and follow up with your bank\u2019s fraud desk; consider also the Banking Ombudsman if the response is unsatisfactory.",
+    "If the bank offers no timely or satisfactory remedy, consult a lawyer to explore further legal options and potential civil remedies."
+  ],
+  "warning": "Be wary of any follow-up scams that promise a refund in exchange for more information or money. Banks will not ask for OTP/MPIN via phone or email. Do not disclose any banking credentials to unknown parties.",
+  "confidence": "Medium"
+}
+

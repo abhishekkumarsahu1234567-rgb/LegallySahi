@@ -1,0 +1,118 @@
+Q: Mujhe online scam hua hai paise kaise recover karu
+A: {
+  "issue": "Online scam \u2013 paise recover karne ki koshish",
+  "is_likely_valid": "Yes",
+  "explanation": "India mein online fraud par paise wapas milne ki guarantee nahin hoti, lekin aap kai legal avenues ki madad se recovery ki koshish kar sakte hain. Jaldi action lene se chances badh jaate hain. Alag-alag payment modes (bank transfer, card, UPI) ke process alag hote hain.",
+  "next_steps": [
+    "Saboot ikattha karein: transaction IDs, bank/PSP statements, screenshots, merchant ki website/URL, chat logs, emails, OTP prompts, payment confirmations.",
+    "Turant bank ya payment service provider (PSP) ko fraud ki report karein aur possible ho to reversal/chargeback ki request karein; agar aapka account ya card compromised ho, turant usse block karein.",
+    "Cybercrime police ya cybercrime cell mein FIR/complaint darj karayein; National Cyber Crime Reporting Portal (cybercrime.gov.in) par complaint register karein taa ki official case reference mile.",
+    "Agar scam me kharida gaya samaan ya service hai, to Consumer Protection Act ke tehat consumer forum mein complaint file karein (State/National level). National Consumer Helpline ya corresponding online portals ke through complaint shuru ki ja sakti hai.",
+    "Sabhi case numbers, logon ke replies, aur deadlines ka record rakhein; agar turant relief na mil paaye to Banking Ombudsman ya anya suitable remedies ki taraf escalate karein.",
+    "Surakshit rahein: OTP/MPIN/bank details kabhi bhi third-party ko na den; sirf official bank/PSP ya government portals se hi communicate karein; phishing ya fake pages se bachne ki verification karte rahen."
+  ],
+  "warning": "Online scams aam hain. Naye contact ya links par click karne se pehle unki authenticity verify karein. Kabhi bhi anjaane logo ko extra payment na dein, aur apne bank/PSP ki official channels se hi help lein.",
+  "confidence": "High"
+}
+
+Q: Police FIR register nahi kar rahi kya karu
+A: {
+  "issue": "Police FIR register nahi kar rahi (Cognizable offence par FIR na register hone ki sthiti)",
+  "is_likely_valid": "Yes",
+  "explanation": "Bharatiya kanoon ke anusar cognizable offences ke liye FIR register karna police ki zimmedari hoti hai. Agar police FIR register nahi kar rahi hai, to aapke paas kanooni tareeke hain: (1) FIR ke liye likhit prarthna/kripya karna aur SHO se yaad-dahaari pramaan ke saath FIR ki maang karna; (2) Agar mana kiya jaye to SP/Commissioner of Police ko uchit likhit praroop me shikayat dalna; (3) Agar phir bhi action na ho to Magistrate ke samaksh Section 156(3) CrPC ke tahat ek private application dal kar police ko FIR darj karne ya jaanch karne ka adesh dilwana; (4) Non-cognizable offences ke liye magistrate ki order ki avashyakta hoti hai. Sath hi turant khatre ki sthiti me 100/112 par call kar sakte hain. Sabhi pramaan, gawahon ke bayan, evidences ki copye rakhen. ",
+  "next_steps": [
+    "Jab bilkul likhit roop me FIR ki maang karen to apne details (date, time, sthaan, ghatna ka varnan, accused, witnesses, saboot) likhen aur SHO ko likhit prarthna/application dein; prarthna ki tekinik saaksh dekar FIR number ki pratilaP rakhen",
+    "Agar SHO mana kar de to SP/Commissioner of Police ko likhit shikayat de kar FIR ki maang ka uchit likhit response prapt karen; sab documents ki copies saath rakhen",
+    "Agar jawab na mile ya koi action na ho to 156(3) CrPC ke tahat kisi nyayik/adalat me private application file karke Magistrate se police ko FIR darj/jaanch ka adesh dilwane ki koshish karen",
+    "Kanooni madad lene ke liye lawyer se salah mashwara karen ya DLSA (District Legal Services Authority) se free/legal aid ki sahayata lein",
+    "Agar turant khatra hai to 100 ya 112 se turant madad len; apne suraksha ke liye zaroori jaankariyan (photos, CCTV, yaad-dahi) jama rakhen",
+    "Aapke shetra ke online FIR/complaint portals ya grievance portals ko bhi jan-kar ke upyog kar sakte hain (state-specific)"
+  ],
+  "warning": "Scams/ghamba: kisi ko FIR register karne ke liye upfront fee ya bribe ki maang na karen; kisi ajnabi vyakti ya agency par bharosa na karen jo 'faster FIR' ya legal dabav ke naam par paisa mangta ho; sirf adhikarik police portals ya adhikrit sthanon ki jankari se hi kriyaen karen; apne sabhi communications ki copies rakhen aur verify karen ki aap asli authorities se sampark mein hain",
+  "confidence": "High"
+}
+
+Q: Company ne salary nahi di legal action kya hai
+A: {
+  "issue": "Salary not paid by employer \u2013 legal action options in India",
+  "is_likely_valid": "Yes",
+  "explanation": "Salary nahi milna ek legal breach hai jo wage-related laws ke tehat address kiya ja sakta hai. Indian law me multiple avenues hain: (1) Written demand notice ya lawyer ke through formal demand \u2014 due payment aur possible interest ke sath. (2) Labour authorities ke paas complaint file karna (jaise Labour Commissioner/Conciliation Officer) under Payment of Wages Act ya state wage/ Shops & Establishments rules, jahan applicable ho. (3) Industrial disputes ya sector-specific remedies jab establishment aur employment relationship fit ho sakta hai; Labour Court/Industrial Tribunal me case file kiya ja sakta hai. (4) Civil suit for recovery of money \u2014 agar wage act applicable na ho ya urgent relief chahiye. (5) Agar company insolvent ya winding up me ho, to IBC ke context me employee dues ki priority claims ki guidance lein. (6) Documentation bahut zaroori hai: appointment letter, payslips, attendance records, bank statements, emails/ texts. (7) Risk awareness: scams ho sakte hain (fake notices, fake lawyers); official channels se hi interact karein.",
+  "next_steps": [
+    "Apne paas ke sabhi documents jama karein (appointment letter, payslips, bank statements, attendance logs, employer ke koi bhi payment reminders).",
+    "Ek formal written demand notice prepare karein ya kisi qualified lawyer ke through notice bhejwayein, jisme due salary, possible interest, aur agle steps clearly mention hon.",
+    "Agar employer notice ke baad bhi payment na kare to apne district ke Labour Department/ Labour Commissioner ke office me complaint file karein (Payment of Wages Act ya state wage laws ke under).",
+    "Agar Labour authorities se relief na mile ya act applicable ho hi na to civil court me recovery of money ke liye suit file karein; related evidence attach karein (contract, payslips, bank statements).",
+    "Agar employer insolvent hai ya winding up chal raha ho: applicable IBC/insolvency process me employee dues ke priority claims ki process follow karein (legal advise lein).",
+    "Scams/frauds se bachne ke liye official government portals/addresses ka hi use karein, upfront fees/OTP ya personal details unverified logon ko na dein."
+  ],
+  "warning": "Labour department ya lawyers ki taraf se milne wale calls/emails ki authenticity verify karein; kabhi bhi apni bank OTP ya PIN share na karein; middlemen ya dubious agencies par dependent na hon; deadlines follow karein aur written records rakhain.",
+  "confidence": "Medium"
+}
+
+Q: Mujhe fake challan mila hai kya karu
+A: {
+  "issue": "Fake traffic challan / phishing scam",
+  "is_likely_valid": "Uncertain",
+  "explanation": "Challan ek legal notice hota hai jisme traffic violation par penalty hoti hai. Lekin aajkal kai baar fake challan SMS/WhatsApp/email ke roop mein aate hain jisme payment link ya UPI ID diya hota hai. Inhe verify kiye bina kisi ko payment mat karein. Real challan aksar official government portals ya police station ke through hi verify hota hai.",
+  "next_steps": [
+    "Kisi bhi payment link par click na karein, OTP/UPI/bank details share na karein jab tak challan ki authenticity confirm na ho.",
+    "Official portal ya apne state ki traffic police ki site par verify karein: apna vehicle number ya challan number se status check karein ya apne police station se confirmation lein.",
+    "Agar challan fake lage to Cyber Crime Cell ya apni police me turant report karein; message, sender ID, date/time, aur screenshot/save karein.",
+    "Agar paise abhi tak pay kiye hain to turant apne bank/UPI provider ko inform karein, transaction block ya chargeback ke liye madad maangen; proof (screenshots) ready rakhein.",
+    "Aage ke liye: aise messages se bachne ke liye official channels ke alawa kisi third-party link par click na karein; sender ID, URLs ki authenticity verify karein."
+  ],
+  "warning": "Fake challans scams aam hain. Kabhi bhi unknown source se payment mat karein, OTP ya bank details share na karein. Sirf official government portals ya police ke dwara hi verify karein.",
+  "confidence": "Medium"
+}
+
+Q: Mujhe fake challan mila hai kya karu
+A: {
+  "issue": "\u092b\u0930\u094d\u091c\u0940 \u0908-\u091a\u093e\u0932\u093e\u0928/\u091a\u093e\u0932\u093e\u0928 \u0938\u094d\u0915\u0948\u092e \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0939\u0941\u0906 \u0939\u0948",
+  "is_likely_valid": "Yes",
+  "explanation": "\u0915\u0908 \u092c\u093e\u0930 \u092f\u093e\u0924\u093e\u092f\u093e\u0924 \u091a\u093e\u0932\u093e\u0928 \u0926\u093f\u0916\u093e\u0928\u0947 \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u0928\u0915\u0932\u0940 \u0938\u0902\u0926\u0947\u0936/\u0908\u092e\u0947\u0932/\u090f\u0938\u090f\u092e\u090f\u0938 \u092d\u0947\u091c\u0915\u0930 \u092a\u0948\u0938\u0947 \u0920\u0917\u0947 \u091c\u093e\u0924\u0947 \u0939\u0948\u0902 \u092f\u093e \u0917\u0932\u0924 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0915\u0930 \u0927\u092e\u0915\u093e\u0924\u0947 \u0939\u0948\u0902\u0964 \u0905\u0938\u0932 \u091a\u093e\u0932\u093e\u0928 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915 \u0938\u094d\u0930\u094b\u0924 \u0938\u0947 \u0915\u0930\u0947\u0902 \u0914\u0930 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0932\u093f\u0902\u0915/\u092d\u0941\u0917\u0924\u093e\u0928 \u0938\u0947 \u092c\u091a\u0947\u0902\u0964",
+  "next_steps": [
+    "\u0915\u093f\u0938\u0940 \u0905\u091c\u094d\u091e\u093e\u0924 \u0932\u093f\u0902\u0915/\u0915\u0949\u0932/\u0908\u092e\u0947\u0932 \u0938\u0947 \u092a\u0947\u0928 \u0928\u0902\u092c\u0930, OTP, \u092c\u0948\u0902\u0915 \u0935\u093f\u0935\u0930\u0923 \u092f\u093e \u092a\u093f\u0928 \u0915\u092d\u0940 \u0928 \u0926\u0947\u0902; \u0938\u094d\u0930\u094b\u0924 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0947 \u092c\u093f\u0928\u093e \u0915\u0941\u091b \u092d\u0940 \u092d\u0941\u0917\u0924\u093e\u0928 \u0928 \u0915\u0930\u0947\u0902.",
+    "\u0905\u092a\u0928\u0947 \u091a\u093e\u0932\u093e\u0928 \u0915\u0940 \u0905\u0938\u0932\u093f\u092f\u0924 official portals \u0915\u0947 \u091c\u0930\u093f\u092f\u0947 \u091c\u093e\u0901\u091a\u0947\u0902: Parivahan Seva/e-Challan \u092a\u094b\u0930\u094d\u091f\u0932 (parivahan.gov.in \u0914\u0930 echallan.parivahan.gov.in) \u092a\u0930 \u0935\u093e\u0939\u0928 \u0938\u0902\u0916\u094d\u092f\u093e \u0914\u0930 \u0935\u093f\u0935\u0930\u0923 \u0938\u0947 \u0938\u0924\u094d\u092f\u093e\u092a\u0928 \u0915\u0930\u0947\u0902.",
+    "\u0905\u0917\u0930 \u091a\u093e\u0932\u093e\u0928 \u0906\u092a\u0915\u0947 \u0928\u093e\u092e/\u0935\u0939.vehicle \u0915\u0947 \u0938\u093e\u0925 \u0928\u0939\u0940\u0902 match \u0939\u094b\u0924\u093e \u092f\u093e \u0917\u0932\u0924 \u0926\u093f\u0916\u0924\u093e \u0939\u0948, \u0924\u094b \u0924\u0941\u0930\u0902\u0924 \u0905\u092a\u0928\u0947 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0915\u0940 \u091f\u094d\u0930\u0948\u092b\u093f\u0915 \u092a\u0941\u0932\u093f\u0938/\u0906\u0930\u091f\u0940\u0913 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0902 \u0914\u0930 \u0938\u093e\u0907\u092c\u0930 \u0915\u094d\u0930\u093e\u0907\u092e \u092f\u093e \u092a\u0941\u0932\u093f\u0938 \u092e\u0947\u0902 \u0936\u093f\u0915\u093e\u092f\u0924 \u0926\u0930\u094d\u091c \u0915\u0930\u0935\u093e\u090f\u0902.",
+    "\u0905\u0917\u0930 \u0906\u092a\u0915\u094b \u0928\u0915\u0932\u0940 \u091a\u093e\u0932\u093e\u0928 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u092d\u0941\u0917\u0924\u093e\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0924\u094b \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u092a\u0947\u092e\u0947\u0902\u091f \u0917\u0947\u091f\u0935\u0947/\u092c\u0948\u0902\u0915 \u0938\u0947 \u0927\u0928 \u0935\u093e\u092a\u0938\u0940 \u0915\u0947 \u0932\u093f\u090f \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0902 \u0914\u0930 \u091a\u093e\u0932\u093e\u0928 \u091c\u093e\u0930\u0940 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0938\u0947 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0930\u0947\u0902.",
+    "\u0938\u093e\u0915\u094d\u0937\u094d\u092f \u0938\u0902\u092d\u093e\u0932\u0915\u0930 \u0930\u0916\u0947\u0902: \u0938\u094d\u0915\u094d\u0930\u0940\u0928\u0936\u0949\u091f, \u0938\u0902\u0926\u0947\u0936/\u0908\u092e\u0947\u0932, \u092d\u0947\u091c\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e \u0928\u0902\u092c\u0930, \u0924\u093e\u0930\u0940\u0916-\u0938\u092e\u092f, \u092a\u0902\u0915\u094d\u0924\u093f/\u091a\u093e\u0932\u093e\u0928 \u0915\u0947 \u0935\u093f\u0935\u0930\u0923."
+  ],
+  "warning": "\u092b\u0930\u094d\u091c\u0940 \u091a\u093e\u0932\u093e\u0928 scams \u0938\u0947 \u092c\u091a\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0947\u0935\u0932 \u0906\u0927\u093f\u0915\u093e\u0930\u093f\u0915 portals \u0938\u0947 \u0938\u0924\u094d\u092f\u093e\u092a\u0928 \u0915\u0930\u0947\u0902; OTP/UPI PIN \u092f\u093e \u092c\u0948\u0902\u0915 \u0935\u093f\u0935\u0930\u0923 \u0915\u092d\u0940 \u0928 \u0926\u0947\u0902; \u0905\u091c\u094d\u091e\u093e\u0924 \u0932\u093f\u0902\u0915 \u092a\u0930 \u0915\u094d\u0932\u093f\u0915 \u0928 \u0915\u0930\u0947\u0902; \u0905\u0917\u0930 \u0938\u0902\u0926\u0947\u0939 \u0939\u094b \u0924\u094b \u092a\u0941\u0932\u093f\u0938 \u092f\u093e \u0938\u093e\u0907\u092c\u0930 \u0915\u094d\u0930\u093e\u0907\u092e \u092f\u0942\u0928\u093f\u091f \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0902.",
+  "confidence": "Medium"
+}
+
+Q: Mujhe fake challan mila hai kya karu
+A: {
+  "issue": "Possible fake/fraudulent traffic challan received",
+  "is_likely_valid": "Uncertain",
+  "explanation": "Aapne kaha ki aapko fake challan mila hai. Aksar scammers aise challans bhejte hain jisme payment ke liye link/UPI/bank transfer karne ko kaha jata hai. Sahi aur official challans sirf government portals/official apps par payment ke liye hote hain. Filhal evidence confirm nahi hai, isliye verification zaroori hai.",
+  "next_steps": [
+    "Kisi bhi challan ke against bina verify kiye payment na karein; official confirmation ke bina pay mat karein.",
+    "Challan ki details (challan number, vehicle number, date, area) official sources se verify karein: apne state traffic police, Parivahan portal ya e-Challan/mParivahan app par.",
+    "Agar challan par QR code ya link diya gaya ho to use sirf official apps/portals par hi scan/check karein.",
+    "Official source se confirm ho jaaye to usi ke according action lein (payment ya contest karein).",
+    "Agar ye fake sabit ho to local police ya cybercrime cell me fraud ki complaint darj karayein; evidence ke roop me screenshots, messages, sender ki details rakhkar submit karein.",
+    "Agar aapne already payment kar diya ho to bank/UPI provider se contact karein, transaction ki details collect kar ke dispute/chargeback ki koshish karein; police ko bhi inform karein.",
+    "Agle samay ke liye phishing/fraud se bachne ke liye OTP/password share na karein, unfamiliar messages/links par click na karein; sirf official numbers/portals hi use karein."
+  ],
+  "warning": "Fake challan ke claims par jaldi payment karke scam ke shikar na banein. Humesha official portals se hi verification karein aur suspicious messages se door rahein.",
+  "confidence": "Medium"
+}
+
+Q: Mujhe online scam hua hai paise kaise recover karu
+A: {
+  "issue": "Online scam me paise recover karne ke steps",
+  "is_likely_valid": "Yes",
+  "explanation": "Online financial scams ke liye aam taur par bank/PSP se reversal (chargeback) ki koshish ki ja sakti hai, aur police ya cybercrime cell me FIR/complaint darj karvana pad sakta hai. Recovery ki guarantee nahi hoti; yeh case ki specifics, bank ki policies, aur jab ki action ki timely reporting par nirbhar karta hai.",
+  "next_steps": [
+    "Evidence ikattha karein: transaction IDs, bank statement, UPI reference, payment receipt, screenshots, chat records, merchant details.",
+    "Turant bank ya payment service provider (PSP) ko inform karein; fraud ko report karein, account/UPI ID/card ko temporarily block ya freeze karne ki request karein; reversal/chargeback ki request dalein.",
+    "Cybercrime portal (cybercrime.gov.in) ya apne shetra ke cybercrime cell me complaint/FIR darj karein; case number aur action taken ka record rakhein.",
+    "Bank aur police ke references ko track karein; apni complaint ki copies organize karke agle steps me use karein; agar zaroori ho to bank ombudsman ya dispute resolution process ke liye samay par follow-up karein.",
+    "Agar aapko maal ya seva milne ki kashish hui hai par paisa wapas nahi mil raha: consumer protection laws ke tehat consumer forum me complaint file ki ja sakti hai.",
+    "Suraksha ke liye aage ki suraksha\u2014OTP, PIN, passwords kisi ke saath share na karein; phishing emails/SMS par click na karein; apne devices ki security (antivirus, updates) banaye rakhein."
+  ],
+  "warning": "Online scams bahut common hain. Kabhi bhi unknown logon ko apni bank details ya OTP/UPI authorization mat dein. Agar koi offer ya link suspicious lage, toh pehle verify karein aur turant action lein.",
+  "confidence": "High"
+}
+
